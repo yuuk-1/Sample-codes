@@ -12,3 +12,6 @@ def divide (x, y):
 
 def exp(x, y):
     return x**y
+
+def random ():
+    return 0
