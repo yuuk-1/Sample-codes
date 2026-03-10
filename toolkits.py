@@ -15,3 +15,6 @@ def exp(x, y):
 
 def random ():
     return 0
+
+def random_range (a, b):
+    return 0
