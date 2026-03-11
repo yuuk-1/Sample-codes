@@ -30,3 +30,5 @@ def random_function():
 
 def random_function():
     return 0
+
+print(12)
