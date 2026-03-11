@@ -21,3 +21,6 @@ def random_range (a, b):
 
 def random_function():
     return 0
+
+def random_function():
+    return 0
