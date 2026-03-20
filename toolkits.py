@@ -8,7 +8,8 @@ def multiply (x, y):
     return x * y
 
 def divide (x, y):
-    return x / y
+    if y != 0:
+        return x / y
 
 def exp(x, y):
     return x**y
