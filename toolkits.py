@@ -40,8 +40,4 @@ print(9797)
 
 print(hallo world)
 
-<<<<<<< Updated upstream
 print(448439843)
-=======
-print(bitch)
->>>>>>> Stashed changes
