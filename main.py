@@ -1,5 +1,7 @@
+import toolkits
+
 print(1)
 
 print(1234567)
 
-print("diff --git a/test.py.txt b/test.py.txt\nindex 9f7e75a..2e1616c 100644\n--- a/test.py.txt\n+++ b/test.py.txt\n@@ -1,4 +1,9 @@\n bla bla\n TRUST TURST\n skibidi\n-6767\n\\ No newline at end of file\n+6767\n+\n+\n+halllooooofsfsnf\n+\n+hehehe\n\\ No newline at end of file\ndiff --git a/toolkits.py b/toolkits.py\nindex 59eab22..ae8e547 100644\n--- a/toolkits.py\n+++ b/toolkits.py\n@@ -8,7 +8,8 @@ def multiply (x, y):\n     return x * y\n \n def divide (x, y):\n-    return x / y\n+    if y != 0:\n+        return x / y\n \n def exp(x, y):\n     return x**y\n@@ -37,4 +38,16 @@ def random_function():\n \n print(9797)\n \n-print(hallo world)\n\\ No newline at end of file\n+print(hallo world)\n+\n+print(448439843)\n+\n+print(\"testing\")\n+\n+print(\"testing again\")\n+\n+print(\"furthur testing\")\n+\n+print(testing testing)\n+\n+print(testing multiple file)\n\\ No newline at end of file\n")
+print(toolkits.add(8,8))
