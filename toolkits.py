@@ -8,7 +8,8 @@ def multiply (x, y):
     return x * y
 
 def divide (x, y):
-    return x / y
+    if y != 0:
+        return x / y
 
 def exp(x, y):
     return x**y
@@ -38,3 +39,15 @@ print(12)
 print(9797)
 
 print(hallo world)
+
+print(448439843)
+
+print("testing")
+
+print("testing again")
+
+print("furthur testing")
+
+print(testing testing)
+
+print(testing multiple file)
