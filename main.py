@@ -11,7 +11,3 @@ print(toolkits.add(8,8))
 print("999")
 
 print("hallooo")
-
-print(123)
-
-print(123)
